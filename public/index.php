@@ -32,7 +32,7 @@
 
 <div>
     <button class="btn btn-default" ng-click="generateMap()">Generate Map</button>
-    <button class="btn btn-default" ng-click="start()">Star Game</button>
+    <button class="btn btn-default" ng-click="start()">Start Game</button>
 </div>
 <div>
     <div class="input-group">
